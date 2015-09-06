@@ -1,0 +1,82 @@
+{
+  "uuid": "866a8fa3-1432-4fec-9086-e6e62f8a29d2",
+  "shortName": "RunTracker",
+  "longName": "RunTracker One",
+  "companyName": "WesleyCrushers",
+  "versionLabel": "0.1",
+  "sdkVersion": "3",
+  "targetPlatforms": ["basalt"],
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+        {
+            "type": "font",
+            "name": "FONT_IMPACT_44",
+            "file": "fonts/impact.ttf",
+            "compatibility": "2.7"
+        },
+        {
+            "type": "font",
+            "name": "FONT_IMPACT_18",
+            "file": "fonts/impact.ttf",
+            "compatibility": "2.7"
+        },
+        {
+            "type": "font",
+            "name": "FONT_IMPACT_21",
+            "file": "fonts/impact.ttf",
+            "compatibility": "2.7"
+        },
+        {
+            "type": "png",
+            "name": "IMAGE_GPS_FIXED",
+            "file": "img/GPS_fixed.png"
+        },
+        {
+            "type": "png",
+            "name": "IMAGE_GPS_LOST",
+            "file": "img/no_GPS.png"
+        },
+        {
+            "type": "png",
+            "name": "IMAGE_NEXT",
+            "file": "img/next.png"
+        },
+        {
+            "type": "png",
+            "name": "IMAGE_PREV",
+            "file": "img/prev.png"
+        },
+        {
+            "type": "png",
+            "name": "IMAGE_PAUSE",
+            "file": "img/pause.png"
+        },
+        {
+            "type": "png",
+            "name": "IMAGE_VOLUME_UP",
+            "file": "img/volume_up.png"
+        },
+        {
+            "type": "png",
+            "name": "IMAGE_VOLUME_DOWN",
+            "file": "img/volume_down.png"
+        },
+        {
+            "type": "png",
+            "name": "IMAGE_STOP",
+            "file": "img/stop.png"
+        },
+        {
+            "type": "png",
+            "name": "IMAGE_PLAY",
+            "file": "img/play.png"
+        }
+    ]
+  }
+}
